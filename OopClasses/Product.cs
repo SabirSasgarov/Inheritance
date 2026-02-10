@@ -12,12 +12,10 @@ namespace OopClasses
         public double Price;
         public int Count;
 
-        public Product() { }
-        public Product(string name, double price, int count) 
+        public Product(string name, double price) 
         {
             Name = name;
             Price = price;
-            Count = count;
         }
 
         public void Detail()

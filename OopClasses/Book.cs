@@ -10,6 +10,14 @@ namespace OopClasses
     {
         public string Genre;
 
+        public Book(string name, double price,string genre)
+        {
+            Name = name;
+            Price = price;
+            Genre = genre;
+        }
+
+
 
     }
 }

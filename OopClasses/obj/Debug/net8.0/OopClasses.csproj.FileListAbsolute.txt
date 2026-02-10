@@ -12,3 +12,4 @@ C:\Users\sabirsas\source\repos\OopClasses\OopClasses\obj\Debug\net8.0\refint\Oop
 C:\Users\sabirsas\source\repos\OopClasses\OopClasses\obj\Debug\net8.0\OopClasses.pdb
 C:\Users\sabirsas\source\repos\OopClasses\OopClasses\obj\Debug\net8.0\OopClasses.genruntimeconfig.cache
 C:\Users\sabirsas\source\repos\OopClasses\OopClasses\obj\Debug\net8.0\ref\OopClasses.dll
+C:\Users\sabirsas\source\repos\OopClasses\OopClasses\obj\Debug\net8.0\OopClasses.sourcelink.json
