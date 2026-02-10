@@ -1,0 +1,14 @@
+C:\Users\sabirsas\source\repos\OopClasses\OopClasses\bin\Debug\net8.0\OopClasses.exe
+C:\Users\sabirsas\source\repos\OopClasses\OopClasses\bin\Debug\net8.0\OopClasses.deps.json
+C:\Users\sabirsas\source\repos\OopClasses\OopClasses\bin\Debug\net8.0\OopClasses.runtimeconfig.json
+C:\Users\sabirsas\source\repos\OopClasses\OopClasses\bin\Debug\net8.0\OopClasses.dll
+C:\Users\sabirsas\source\repos\OopClasses\OopClasses\bin\Debug\net8.0\OopClasses.pdb
+C:\Users\sabirsas\source\repos\OopClasses\OopClasses\obj\Debug\net8.0\OopClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabirsas\source\repos\OopClasses\OopClasses\obj\Debug\net8.0\OopClasses.AssemblyInfoInputs.cache
+C:\Users\sabirsas\source\repos\OopClasses\OopClasses\obj\Debug\net8.0\OopClasses.AssemblyInfo.cs
+C:\Users\sabirsas\source\repos\OopClasses\OopClasses\obj\Debug\net8.0\OopClasses.csproj.CoreCompileInputs.cache
+C:\Users\sabirsas\source\repos\OopClasses\OopClasses\obj\Debug\net8.0\OopClasses.dll
+C:\Users\sabirsas\source\repos\OopClasses\OopClasses\obj\Debug\net8.0\refint\OopClasses.dll
+C:\Users\sabirsas\source\repos\OopClasses\OopClasses\obj\Debug\net8.0\OopClasses.pdb
+C:\Users\sabirsas\source\repos\OopClasses\OopClasses\obj\Debug\net8.0\OopClasses.genruntimeconfig.cache
+C:\Users\sabirsas\source\repos\OopClasses\OopClasses\obj\Debug\net8.0\ref\OopClasses.dll

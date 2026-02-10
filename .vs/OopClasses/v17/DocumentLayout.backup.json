@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabirsas\\source\\repos\\OopClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3BFF0D-3F57-4CB4-BBA8-16E547094CC4}|OopClasses\\OopClasses.csproj|c:\\users\\sabirsas\\source\\repos\\oopclasses\\oopclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3BFF0D-3F57-4CB4-BBA8-16E547094CC4}|OopClasses\\OopClasses.csproj|solutionrelative:oopclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3BFF0D-3F57-4CB4-BBA8-16E547094CC4}|OopClasses\\OopClasses.csproj|c:\\users\\sabirsas\\source\\repos\\oopclasses\\oopclasses\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3BFF0D-3F57-4CB4-BBA8-16E547094CC4}|OopClasses\\OopClasses.csproj|solutionrelative:oopclasses\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabirsas\\source\\repos\\OopClasses\\OopClasses\\Program.cs",
+              "RelativeDocumentMoniker": "OopClasses\\Program.cs",
+              "ToolTip": "C:\\Users\\sabirsas\\source\\repos\\OopClasses\\OopClasses\\Program.cs*",
+              "RelativeToolTip": "OopClasses\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:03:52.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sabirsas\\source\\repos\\OopClasses\\OopClasses\\Product.cs",
+              "RelativeDocumentMoniker": "OopClasses\\Product.cs",
+              "ToolTip": "C:\\Users\\sabirsas\\source\\repos\\OopClasses\\OopClasses\\Product.cs",
+              "RelativeToolTip": "OopClasses\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:22:59.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
