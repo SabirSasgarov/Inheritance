@@ -14,7 +14,6 @@ namespace OopClasses
         {
             Genre = genre;
 		}
-		
 
 	}
 }

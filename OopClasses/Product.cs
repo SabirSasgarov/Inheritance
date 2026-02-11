@@ -11,18 +11,18 @@ namespace OopClasses
         public string Name;
         public double Price;
         public int Count;
-        public Book[] Books;
+        public Book[] Books=new Book[0];
 
         public Product(string name, double price) 
         {
             Name = name;
             Price = price;
-            Books = new Book[0];
         }
 
         public void AddBook(Book book)
         {
             Array.Resize(ref Books,Books.Length+1);
+			Console.WriteLine(book);
             Books[Books.Length - 1]=book;
         }
 
@@ -37,11 +37,11 @@ namespace OopClasses
             return discountedPrice;
         }
 
-		public void ShowBooks(string genre)
+		public void ShowBooks()
 		{
 			Console.WriteLine("Books: ");
 			foreach (var book in Books)
-				Console.WriteLine($"Book name: {Name}, Book genre:{genre},Book price: {Price}, Count: {Count}");
+				Console.WriteLine($"Book name: {book.Name}       |      Book genre: {book.Genre}       |       Book price: {book.Price}        |       Count:{book.Count}");
 		}
 
 
