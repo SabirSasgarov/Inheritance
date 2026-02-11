@@ -37,7 +37,9 @@ namespace OopClasses
             int operation = int.Parse(Console.ReadLine());
             switch (operation) {
                 case 1:
-                    
+					Console.WriteLine("Axtardiginiz qiymeti daxil edin: ");
+                    double qiymet = double.Parse(Console.ReadLine());
+                    product.Filter(qiymet);
                     break;
                 case 2:
 					product.ShowBooks();

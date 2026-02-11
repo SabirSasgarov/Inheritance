@@ -43,7 +43,20 @@ namespace OopClasses
 			foreach (var book in Books)
 				Console.WriteLine($"Book name: {book.Name}       |      Book genre: {book.Genre}       |       Book price: {book.Price}        |       Count:{book.Count}");
 		}
-
+        public void Filter(double  qiymet)
+        {
+            int count = default;
+            foreach(var book in Books)
+            {
+                if (qiymet == book.Price)
+                {
+                    Console.WriteLine($"Book name: {book.Name}       |      Book genre: {book.Genre}       |       Count:{book.Count}");
+                    count++;
+                }
+            }
+            if(count==0)
+				Console.WriteLine("Axtardiginiz qiymetde kitab tapilmadi.");
+        }
 
 	}
 }
