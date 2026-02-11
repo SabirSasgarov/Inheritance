@@ -25,18 +25,15 @@ namespace OopClasses
 			Console.WriteLine(book);
             Books[Books.Length - 1]=book;
         }
-
         public void Detail()
         {
             Console.WriteLine($"Product name: {Name}\nProduct price: {Price}\nProduct count: {Count}");
         }
-
         public double Discount(double discountPercent)
         {
             double discountedPrice = Price - ((Price * discountPercent) / 100);
             return discountedPrice;
         }
-
 		public void ShowBooks()
 		{
 			Console.WriteLine("Books: ");
