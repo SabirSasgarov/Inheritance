@@ -10,14 +10,11 @@ namespace OopClasses
     {
         public string Genre;
 
-        public Book(string name, double price,string genre)
+        public Book(string name, double price,string genre):base(name,price)
         {
-            Name = name;
-            Price = price;
             Genre = genre;
-        }
+		}
+		
 
-
-
-    }
+	}
 }
